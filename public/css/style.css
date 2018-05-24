@@ -1,0 +1,44 @@
+.app{
+  background: #92c4aa;
+}
+.head{
+  color:#def8ea;
+}
+.bottom{
+  bottom: 1%;
+  position: fixed;
+  left: 50%;
+  width: 75%;
+  margin-left: -37.5%;
+}
+#home{
+border-radius: 20px ;
+  background-color: white;
+  font-size: 18px;
+  width: 70%;
+  margin: 5px auto;
+
+}
+#user{
+  color: #ff5b83;
+}
+#msg{
+  color: #d6a6db;
+}
+/*input messagE*/
+#message{
+  width: 60%;
+ border-radius: 10px;
+ height: 35px;
+}
+#send{
+  border-radius: 10px;
+  height: 35px;
+  width: 10%;
+
+}
+#location{
+  width: 5%;
+  border-radius: 10px;
+  height: 35px;
+}
